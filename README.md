@@ -2,7 +2,7 @@
   <img src="https://github.com/luckymarmot/ThemeKit/raw/master/Imgs/ThemeKit@2x.png" width="377" height="105" alt="ThemeKit" />
 </p>
 
-![macOS](https://img.shields.io/badge/os-macOS%2010.10%2B-green.svg?style=flat)
+![macOS](https://img.shields.io/badge/os-macOS%2010.15%2B-green.svg?style=flat)
 ![Swift4](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)
 ![Release](https://img.shields.io/badge/release-1.4.0-blue.svg?style=flat)
 ![MIT](https://img.shields.io/badge/license-MIT-lightgray.svg)
@@ -65,53 +65,20 @@ This is an swift 5 upgrade & added SPM
 
 |ThemeKit Version|Swift Version|
 |----------------|-------------|
-|1.0.0           |      3.0    |
-|1.1.0           |      4.0    |
-|1.2.0           |      4.1    |
-|1.2.3           |      4.2    |
+|1.4.0           |      5.0    |
+
 
 There are multiple options to include *ThemeKit* on your project:
 
-- **[CocoaPods](https://cocoapods.org)**
+this git only supports Swift Package Manager for CocoaPods or Carthage please go to the org. version 
 
-  Add to your `Podfile`:
-
-  ```Podfile
-  use_frameworks!
-  target '[YOUR APP TARGET]' do
-      pod 'macOSThemeKit', '~> 1.2.0'
-  end
-  ```
-  
-  When using CocoaPods, the ThemeKit module is named `macOSThemeKit`:
-  
-  ```
-  import macOSThemeKit
-  ```
-  
-  
-- **[Carthage](https://github.com/Carthage/Carthage)**
-
-  ```
-  github "luckymarmot/ThemeKit"
-  ```
-  
-  Then import ThemeKit module with:
-  
-  ```
-  import ThemeKit
-  ```
-  
-- **Manually**
-  - Either add `ThemeKit.framework` on your project, **or**, manually add source files from the `ThemeKit\` folder to your project
-  - If importing into a Objective-C project, you will need to include all the Swift related frameworks as well (as reported [here](https://github.com/luckymarmot/ThemeKit/issues/6))
-  
-  Then import ThemeKit module with:
-  
-  ```
-  import ThemeKit
-  ```
-  
+#### Install with Swift Package Manager:
+```swift
+dependencies: [
+    .package(url: "https://github.com/Skovie/masOSThemKit", from: "1.4.0"))
+]
+```
+Declare `import masOSThemKit` in your swift file to use the library.
 
 ## Usage
 
