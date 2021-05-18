@@ -27,5 +27,6 @@ let package = Package(
         .testTarget(
             name: "macOSThemeKitTests",
             dependencies: ["macOSThemeKit"]),
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
