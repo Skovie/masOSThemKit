@@ -21,7 +21,6 @@
 
 ### QuickStart
 
-* Download the [ThemeKit Demo](https://github.com/Skovie/masOSThemKit/raw/master/raw/master/Demo/Bin/Demo.zip) binary and give it a try!
 * Read the [Make your macOS app themable](https://medium.com/@nfgrilo/make-your-macos-app-themable-30dbfe4f5ef0) article (simple tutorial). 
 * Check the [ThemeKit Docs](http://themekit.nunogrilo.com). 
 
