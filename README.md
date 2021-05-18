@@ -45,7 +45,7 @@ This is an swift 5 upgrade & added SPM
 
 ## Features
 
-- Written in Swift 4.2
+- Written in Swift 5
 - Optional configuration, none required
 - Neglected performance impact
 - Automatically theme windows (configurable)
