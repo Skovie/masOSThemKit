@@ -1,5 +1,5 @@
 <p align="left" style="margin-top: 20px;">
-  <img src="https://github.com/luckymarmot/ThemeKit/raw/master/Imgs/ThemeKit@2x.png" width="377" height="105" alt="ThemeKit" />
+  <img src="https://https://github.com/Skovie/masOSThemKit/raw/master/Imgs/ThemeKit@2x.png" width="377" height="105" alt="ThemeKit" />
 </p>
 
 ![macOS](https://img.shields.io/badge/os-macOS%2010.10%2B-green.svg?style=flat)
@@ -12,7 +12,7 @@
  
 *ThemeKit* is a lightweight theming library completely written in Swift that provides theming capabilities to both Swift and Objective-C macOS applications.
 
-*ThemeKit* is brought to you with ❤️ by [Nuno Grilo](http://nunogrilo.com) and the [Paw](https://paw.cloud) [team](https://github.com/orgs/luckymarmot/people).
+*ThemeKit* is org. brought to you[Nuno Grilo](http://nunogrilo.com) and the [Paw](https://paw.cloud) [team](https://github.com/orgs/luckymarmot/people).
 
 <p align="left">
   <img src="https://github.com/luckymarmot/ThemeKit/raw/master/Imgs/ThemeKit.gif" width="675" height="378" alt="ThemeKit Animated Demo" />
