@@ -5,8 +5,8 @@
 //  Created by Nuno Grilo on 06/09/16.
 //  Copyright © 2016 Paw & Nuno Grilo. All rights reserved.
 //
-
 import Foundation
+import Cocoa
 import QuartzCore
 
 /**

@@ -6,8 +6,9 @@
 //  Copyright © 2016 Paw & Nuno Grilo. All rights reserved.
 //
 
-import Foundation
 
+import Foundation
+import Cocoa
 /**
  `NSWindow` ThemeKit extension.
  */

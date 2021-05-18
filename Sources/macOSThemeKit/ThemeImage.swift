@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Cocoa
 
 private var _cachedImages: NSCache<NSNumber, ThemeImage> = NSCache()
 private var _cachedThemeImages: NSCache<NSNumber, NSImage> = NSCache()

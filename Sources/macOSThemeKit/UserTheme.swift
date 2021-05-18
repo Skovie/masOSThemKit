@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Cocoa
 
 /**
  A `Theme` class wrapping a user provided theme file (`.theme`).

@@ -5,8 +5,8 @@
 //  Created by Nuno Grilo on 07/09/16.
 //  Copyright © 2016 Paw & Nuno Grilo. All rights reserved.
 //
-
 import Foundation
+import Cocoa
 
 private var _cachedGradients: NSCache<NSNumber, ThemeGradient> = NSCache()
 private var _cachedThemeGradients: NSCache<NSNumber, NSGradient> = NSCache()

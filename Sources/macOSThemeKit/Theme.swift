@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+import Cocoa
 /**
  Theme protocol: the base of all themes.
  
