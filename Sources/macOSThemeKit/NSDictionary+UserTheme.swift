@@ -6,7 +6,6 @@
 //  Copyright © 2016 Paw & Nuno Grilo. All rights reserved.
 //
 
-import Foundation
 import Cocoa
 
 extension NSDictionary {

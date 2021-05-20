@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Cocoa
+
 /// System theme. 
 ///
 /// Will dynamically resolve to either `ThemeManager.lightTheme` or `ThemeManager.darkTheme`,

@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Cocoa
+
 /**
  Notifications defined by `ThemeKit`.
  */

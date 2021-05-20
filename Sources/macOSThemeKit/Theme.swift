@@ -6,8 +6,8 @@
 //  Copyright © 2016 Paw & Nuno Grilo. All rights reserved.
 //
 
-import Foundation
 import Cocoa
+
 /**
  Theme protocol: the base of all themes.
  
